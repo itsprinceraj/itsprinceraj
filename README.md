@@ -4,12 +4,12 @@
 ###
 
 <div align="left" >
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsprinceraj.itsprinceraj&" width="80" height="20" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=itsprinceraj.itsprinceraj&" width="90" height="25" />
 </div>
 
-### 🚀 Full Stack Web Developer | MERN Stack Enthusiast
+## 🚀 Full Stack Web Developer | MERN Stack Enthusiast
 
-I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. I love building scalable, high-performance web applications with seamless user experiences and secure backends. Let's create something amazing together!
+### I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. I love building scalable, high-performance web applications with seamless user experiences and secure backends. Let's create something amazing together!
 
 - 🌱 I’m currently learning **Web sockets**
 
@@ -21,8 +21,20 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. 
   ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<br/>
 
-<div align="center">
+<div  style="display:flex; align-items: center; justify-content:center;">
+  <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsprinceraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsprinceraj" />
+</p>
+
+<p >&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprinceraj&show_icons=true&locale=en&theme=dark" alt="itsprinceraj" />
+</p>
+</div>
+
+</div>
+<div >
   <img src="https://streak-stats.demolab.com?user=itsprinceraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -77,7 +89,7 @@ I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. 
 
 ---
 
-### 📫 **Let's Connect!**
+### 📫 **Let's Connect:**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/iam-princeraj">
