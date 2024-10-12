@@ -92,19 +92,19 @@
 ### 📫 **Let's Connect:**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/iam-princeraj">
+  <a href="https://www.linkedin.com/in/iam-princeraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://portfolio-three-lovat-41.vercel.app/">
+  <a href="https://portfolio-three-lovat-41.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
    <a href="https://leetcode.com/iam-princeraj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-  <a href="https://github.com/iamprinceraj">
+  <a href="https://github.com/itsprinceraj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:dev.prince116@gmail.com">
+  <a href="mailto:dev.prince116@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
