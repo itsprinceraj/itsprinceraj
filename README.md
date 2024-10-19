@@ -28,9 +28,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsprinceraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsprinceraj" />
 </p>
 
-<p >&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprinceraj&show_icons=true&locale=en&theme=dark" alt="itsprinceraj" />
-</p>
 </div>
 
 </div>
