@@ -25,15 +25,16 @@
 
 <div  style="display:flex; align-items: center; justify-content:center;">
   <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsprinceraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsprinceraj" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsprinceraj&show_icons=true&locale=en&layout=compact&theme=dark" alt="itsprinceraj" />
+  </p>
+
+<p >&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itsprinceraj&show_icons=true&locale=en&theme=dark" alt="itsprinceraj" />
 </p>
-
 </div>
 
 </div>
-<div >
-  <img src="https://streak-stats.demolab.com?user=itsprinceraj&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+
 
 ###
 
