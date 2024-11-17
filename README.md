@@ -70,20 +70,10 @@
 
 ---
 
-### 💼 **Experience**:
-
-- **Full Stack Developer Intern** at HDS Infotech  
-  - Developed and optimized RESTful APIs for an EdTech platform.
-  - Implemented **MongoDB** for efficient data storage, ensuring scalability.
-  - Applied security best practices for user data protection.
-
----
-
 ### 🎓 **Education**:
 
 - **Bachelor of Technology** in Computer Science Engineering  
   RIMT University (2021 - 2025)  
-  CGPA: 8.51
 
 ---
 
