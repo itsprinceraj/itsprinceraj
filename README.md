@@ -11,7 +11,7 @@
 
 ### I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. I love building scalable, high-performance web applications with seamless user experiences and secure backends. Let's create something amazing together!
 
-- 🌱 I’m currently working with **JavaScript** and related technologies such as **React.js** and **Node.js**.
+- 🌱 I’m currently working with **TypeScript/JavaScript** and related technologies such as **Angular.js**, **React.js** and **Node.js**.
   
 - 🚀 I'm also exploring **WebSockets** and **WebRTC** to enhance real-time communication and ensure seamless performance.
 
