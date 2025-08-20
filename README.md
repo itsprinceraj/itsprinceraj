@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-three-lovat-41.vercel.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VVdQxutXqLNba8tLJYiAvlzLASJMVIHO/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PVFA_zsKMyuXbYXmF985covUUju2i8vH/view?usp=sharing)
 
 
   ###
