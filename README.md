@@ -7,15 +7,15 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsprinceraj.itsprinceraj&" width="90" height="25" />
 </div>
 
-## 🚀 Full Stack Web Developer | MERN Stack Enthusiast
+## 🚀 Software Developer | RAG Developer
 
-### I'm a passionate **Full Stack Developer** with expertise in the **MERN** stack. I love building scalable, high-performance web applications with seamless user experiences and secure backends. Let's create something amazing together!
+### I'm a passionate **Software Developer** with expertise in the **MERN** stack. I love building scalable, high-performance web applications with seamless user experiences and secure backends. Let's create something amazing together!
 
-- 🌱 I’m currently working with **TypeScript/JavaScript** and related technologies such as **Angular.js**, **React.js** and **Node.js**.
+- 🌱 I’m currently working with **RAG models/MCP Servers** along with **MERN Stack**.
   
-- 🚀 I'm also exploring **WebSockets** and **WebRTC** to enhance real-time communication and ensure seamless performance.
+- 🚀 I'm also exploring **App Development** for my continuous growth and learning.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-three-lovat-41.vercel.app/)
+- 👨‍💻 Know more about me at [Portfolio](https://portfolio-three-lovat-41.vercel.app/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PVFA_zsKMyuXbYXmF985covUUju2i8vH/view?usp=sharing)
 
