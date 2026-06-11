@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsprinceraj.itsprinceraj&" width="90" height="25" />
 </div>
 
-## 🚀 Full-Stack Software Engineer | RAG & AI Systems Developer
+## 🚀 Full-Stack Software Engineer | RAG & AI System Developer
 
 > **Engineered for scale, optimized for performance.** I am a seasoned Software Developer with 2+ years of hands-on experience architectural design, building, and deploying highly scalable web and mobile applications. Specializing in the **MERN Stack**, distributed systems (**Kafka, Redis, BullMQ**), real-time communications (**WebRTC, Socket.io**), and cutting-edge **RAG (Retrieval-Augmented Generation) models / MCP Servers**. I bridge the gap between robust backend infrastructure and seamless, fluid user experiences.
 
