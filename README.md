@@ -142,11 +142,8 @@ graph LR
 ### 🤝 Let's Connect & Build
 
 Available for systems consulting, cloud backend design architectural optimization, or next-generation AI pipeline integrations.
-
 <br>
 
 <div align="center">
-
 > 🎯 *"Building infrastructure that doesn't just scale — it dominates performance thresholds."*
-
 </div>
