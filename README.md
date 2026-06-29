@@ -2,7 +2,7 @@
 
 # 👋 Hello! I'm **Prince Raj**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Backend+Engineer;2%2B+Years+of+Production+Experience;Building+Scalable+AI+%26+RAG+Systems;Event-Driven+%26+Real-Time+Architectures)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+%26+Engineer;2%2B+Years+of+Production+Experience;Building+Scalable+AI+%26+RAG+Systems;Event-Driven+%26+Real-Time+Architectures)](https://git.io/typing-svg)
 
 <div align="center" style="margin: 15px 0;">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=itsprinceraj.itsprinceraj&" width="90" height="25" />
