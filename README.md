@@ -19,7 +19,7 @@
 * 🌱 **Currently Exploring**: High-performance AI pipelines, production-grade RAG models, context-aware applications, and cross-platform mobile apps.
 * 📱 **Mobile Ecosystem**: Architecting seamless native-performing fluid bridges using **React Native**, customized through Xcode and Android toolchains.
 * 💻 **Portfolio & Showcase**: Explore my live apps and case studies at [Portfolio](https://portfolio-three-lovat-41.vercel.app/)
-* 📄 **Professional Timeline**: Review my verified enterprise experience via my [Curriculum Vitae / Resume](https://drive.google.com/file/d/1xO2pUC7k-5N7FNK8ehLdLUQS1M8HZOZu/view?usp=sharing)
+* 📄 **Professional Timeline**: Review my verified enterprise experience via my [Curriculum Vitae / Resume](https://drive.google.com/file/d/1j90vn1gSOtaTZPSdQQipvpSbWFxjGCex/view?usp=sharing)
 
 ---
 
