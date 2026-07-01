@@ -21,28 +21,29 @@
 * 💻 **Portfolio & Showcase**: Explore my live apps and case studies at [Portfolio](https://portfolio-three-lovat-41.vercel.app/)
 * 📄 **Professional Timeline**: Review my verified enterprise experience via my [Curriculum Vitae / Resume](https://drive.google.com/file/d/1j90vn1gSOtaTZPSdQQipvpSbWFxjGCex/view?usp=sharing)
 
+<h2 align="center">⚡ GitHub Analytics</h2>
+
+
+
+<p align="center">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=itsprinceraj&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsprinceraj&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsprinceraj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itsprinceraj&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsprinceraj&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itsprinceraj&theme=tokyonight&utcOffset=5.5"/>
+</p>
+
 ---
-
-## 📊 Developer Dashboard & GitHub Analytics
-
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
-    <tr style="border: none;">
-      <td valign="top" style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=itsprinceraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" alt="Prince's GitHub Stats" height="195px"/>
-      </td>
-      <td valign="top" style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsprinceraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" height="195px"/>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsprinceraj&theme=radical&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%"/>
-</div>
- 
----
-
-## 🛠️ Technical Arsenal & Ecosystem
 
 ### 💻 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
